@@ -5,7 +5,6 @@
 * [Membros](#-Membros)
 * [Como executar a aplicação](#-Como)
 
-## Membros:
 ### Devs
 [João Albuquerque](https://www.linkedin.com/in/joão-albuquerque-7bb562161/) - [GitHub](https://github.com/joaomarcos70)
 [Daniela Souza](https://www.linkedin.com/in/daniela-oliveira-teixeira-de-sousa-66254a157/) - [GitHub](https://github.com/danisousa1995)  
